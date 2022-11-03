@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" height=""50px width="50px" src="https://www.freeiconspng.com/uploads/email-icon--endless-icons-20.png" />
 </a>
 
-<a href="https://medium.com/@RaviSanghani" target="_blank">
+<a href="https://0xravi.medium.com/" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
